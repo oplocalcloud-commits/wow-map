@@ -1,0 +1,10 @@
+
+{
+  "name": "WOW Maps - Map Code Sharing",
+  "description": "A professional gaming-themed map code sharing platform with a dark-mode aesthetic, category filtering, and rewarded unlock mechanics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

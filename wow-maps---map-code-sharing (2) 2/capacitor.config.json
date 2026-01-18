@@ -1,0 +1,22 @@
+
+{
+  "appId": "com.wowmaps.pro.blue",
+  "appName": "WOW Maps Pro",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true,
+    "allowNavigation": ["*"]
+  },
+  "plugins": {
+    "AdMob": {
+      "initializeOnStartup": true
+    }
+  },
+  "android": {
+    "buildOptions": {
+      "releaseType": "APK"
+    }
+  }
+}

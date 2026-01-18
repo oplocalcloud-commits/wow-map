@@ -1,0 +1,8 @@
+
+{
+  "name": "wow-maps-lite-blue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
